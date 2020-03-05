@@ -52,7 +52,7 @@ x_test, y_test, *_ = extract_grayscale_dataset(mniset, split='test')
 ```
 
 ## Other possibilities
-The dataset can also be used for 3 or 9 class classification problems, both with the color or grayscale dataset. For more details, as well as the plotting functions used here, see [mniset.ipynb](mniset.ipynb).
+The dataset can also be used for 3 or 9 class classification problems, both with the color or grayscale dataset. For more details, as well as the plotting functions used here, see [MNISET.ipynb](MNISET.ipynb).
 
 ## Disclaimer
 * This dataset is under development and may change without notice. It may contain a few mistakes. Contact me if you have any questions.
